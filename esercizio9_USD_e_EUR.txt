@@ -1,0 +1,8 @@
+USD = 36.12
+EUR = 61.03
+
+USD_to_EUR = 33.49
+EUR_to_USD = 65.81
+
+print(USD, "USD is", round(USD_to_EUR, 2), "EUR")
+print(EUR, "EUR is", round(EUR_to_USD, 2), "USD")
