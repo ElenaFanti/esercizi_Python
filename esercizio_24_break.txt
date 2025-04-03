@@ -1,0 +1,14 @@
+secret_word = "chupacabra"
+counter = "chupacabra"
+
+while True:
+    word = (input("Enter a word: "))
+    if word == "chupacabra":
+        break
+    counter != "chupacabra"
+    if word != secret_word:
+        secret_word = word
+
+if counter == "chupacabra":
+    print("You've successfully left the loop")
+    
